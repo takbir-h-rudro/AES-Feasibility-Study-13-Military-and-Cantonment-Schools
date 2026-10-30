@@ -18,16 +18,18 @@
 
 ## 🧭 Navigate this README
 
-- [📌 Project overview](#-1-project-overview)
-- [🎯 Objectives](#-3-project-objectives)
-- [📍 Geographic coverage and map](#-4-geographic-coverage--interactive-map)
-- [📊 Project dashboard and charts](#-5-project-dashboard--key-statistics)
-- [🛠️ Scope and methodology](#-6-scope-of-the-feasibility-study)
-- [📐 Codes and standards](#-8-applicable-codes-standards-and-guidelines)
-- [📦 Deliverables and repository layout](#-9-major-project-deliverables)
-- [🏛️ Project significance and acknowledgement](#-11-project-significance)
+- [📌 Project overview](#project-overview)
+- [🎯 Objectives](#project-objectives)
+- [📍 Geographic coverage and map](#geographic-coverage)
+- [📊 Project dashboard and charts](#project-dashboard)
+- [🛠️ Scope and methodology](#scope-and-methodology)
+- [📐 Codes and standards](#codes-standards)
+- [📦 Deliverables and repository layout](#deliverables)
+- [🏛️ Project significance and acknowledgement](#project-significance)
 
 ---
+
+<a id="project-overview"></a>
 
 ## 📌 1. Project Overview
 
@@ -61,6 +63,8 @@ However, increasing student enrollment, limited classroom capacity, inadequate l
 
 This study evaluates these requirements across 13 institutions and develops an integrated infrastructure development framework based on institutional needs, projected student demand, existing physical conditions, and long-term sustainability considerations.
 
+<a id="project-objectives"></a>
+
 ## 🎯 3. Project Objectives
 
 The principal objectives of the feasibility study were to:
@@ -73,6 +77,8 @@ The principal objectives of the feasibility study were to:
 - Incorporate climate resilience, environmental sustainability, and disaster risk reduction into infrastructure planning.
 - Promote inclusive and accessible educational infrastructure.
 - Evaluate the technical, economic, institutional, and implementation feasibility of the proposed development.
+
+<a id="geographic-coverage"></a>
 
 ## 📍 4. Geographic Coverage & Interactive Map
 
@@ -304,14 +310,14 @@ The map below uses **district-level reference points** to show the broad geograp
 
 **Download the location data:**
 
-- [GeoJSON — district reference points](../blob/more-interactive/assets/institutions-district-reference-points.geojson) · Open the data as a map in GitHub or use it in GIS software.
-- [KML — district reference points](../blob/more-interactive/assets/institutions-district-reference-points.kml) · Import into Google Earth or Google My Maps.
-- [CSV — coordinates and institution names](../blob/more-interactive/assets/institutions-district-reference-points.csv) · Use in Excel, GIS or other analysis tools.
+- [GeoJSON — district reference points](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.geojson) · Open the data as a map in GitHub or use it in GIS software.
+- [KML — district reference points](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.kml) · Import into Google Earth or Google My Maps.
+- [CSV — coordinates and institution names](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.csv) · Use in Excel, GIS or other analysis tools.
 
 <details>
 <summary><strong>📌 How to view the KML in Google My Maps</strong></summary>
 
-1. Download the [KML file](../blob/more-interactive/assets/institutions-district-reference-points.kml).
+1. Download the [KML file](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.kml).
 2. Open [Google My Maps](https://www.google.com/mymaps).
 3. Create a new map and choose **Import** for a layer.
 4. Upload the downloaded KML file.
@@ -340,6 +346,8 @@ The map below uses **district-level reference points** to show the broad geograp
 | 13 | Savar Cantonment Morning Glory School & College | Dhaka | [📍 Map](https://www.google.com/maps/search/?api=1&query=Savar+Cantonment+Morning+Glory+School+College) |
 
 <sub>Map-search links open a Google Maps search for the institution name; the result should be checked before using it as a campus location. District reference coordinate source: <a href="https://github.com/mdtanvirahamedshanto/bd-geo-info">bd-geo-info</a> (district latitude/longitude data). This is a community-maintained reference dataset, not a campus survey.</sub>
+
+<a id="project-dashboard"></a>
 
 ## 📊 5. Project Dashboard & Key Statistics
 
@@ -379,6 +387,8 @@ xychart-beta
 ```
 
 <sub>The proposed additional capacity is a planning parameter, not a forecast of actual future enrollment. Investment is rounded to Tk. 942 crore in this overview.</sub>
+
+<a id="scope-and-methodology"></a>
 
 ## 🛠️ 6. Scope of the Feasibility Study
 
@@ -494,6 +504,8 @@ The major methodological components include:
 9. Assessment of institutional, administrative, and implementation requirements.
 10. Formulation of recommendations and conclusions.
 
+<a id="codes-standards"></a>
+
 ## 📐 8. Applicable Codes, Standards and Guidelines
 
 The feasibility assessment references relevant national regulatory frameworks, technical standards, and institutional guidelines, including:
@@ -501,6 +513,8 @@ The feasibility assessment references relevant national regulatory frameworks, t
 - Bangladesh National Building Code (**BNBC 2020**).
 - Public Works Department (**PWD**) Schedule of Rates, June 2022 (Revised).
 - Environmental Conservation Rules (**ECR 2023**).
+
+<a id="deliverables"></a>
 
 ## 📦 9. Major Project Deliverables
 
@@ -534,6 +548,8 @@ This branch adds the README's map data under `assets/`. The wider documentation 
 | `08_Environmental_and_Disaster_Risk/` | Environmental and climate resilience assessments |
 | `09_Risk_and_Sensitivity_Analysis/` | Risk and sensitivity analysis |
 | `10_Presentations_and_Summaries/` | Presentations and supplementary documentation |
+
+<a id="project-significance"></a>
 
 ## 🌟 11. Project Significance
 
