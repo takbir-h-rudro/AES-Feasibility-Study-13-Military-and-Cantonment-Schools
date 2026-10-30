@@ -80,272 +80,59 @@ The principal objectives of the feasibility study were to:
 
 <a id="geographic-coverage"></a>
 
-## 📍 4. Geographic Coverage & Interactive Map
+## 📍 4. Geographic Coverage & Google Earth Photo Map
 
-The 13 institutions are distributed across **11 districts**. Khulna and Dhaka each account for two institutions; the remaining districts account for one institution each.
+The 13 institutions are distributed across **11 districts** in Bangladesh. Khulna and Dhaka each account for two institutions; the remaining districts account for one institution each.
 
-### 🗺️ Explore the geographic distribution
+### 🌏 Open the 13-school photo map in Google Earth
 
-The map below uses **district-level reference points** to show the broad geographic spread of the institutions. These coordinates are not verified campus locations and should not be used for navigation to a school.
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "name": "District reference points for 13 selected military and cantonment educational institutions",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 1,
-        "district": "Rajbari",
-        "institution_count": 1,
-        "institutions": [
-          "Sena Public School & College, Kalukhali"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.6444665,
-          23.7574305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 2,
-        "district": "Faridpur",
-        "institution_count": 1,
-        "institutions": [
-          "Military Collegiate School, Faridpur"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.8429406,
-          23.6070822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 3,
-        "district": "Khulna",
-        "institution_count": 2,
-        "institutions": [
-          "Cantonment Public School & College, Jahanabad, Khulna",
-          "Military Collegiate School, Khulna"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.568679,
-          22.815774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 4,
-        "district": "Nilphamari",
-        "institution_count": 1,
-        "institutions": [
-          "Cantonment Public School & College, Saidpur"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.856006,
-          25.931794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 5,
-        "district": "Shariatpur",
-        "institution_count": 1,
-        "institutions": [
-          "Padma Cantonment Public School & College, Jajira"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.3477725,
-          23.2060195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 6,
-        "district": "Jashore",
-        "institution_count": 1,
-        "institutions": [
-          "Jessore English School & College"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.2081126,
-          23.16643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 7,
-        "district": "Barishal",
-        "institution_count": 1,
-        "institutions": [
-          "Barishal Cantonment Public School & College"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.3731568,
-          22.7004179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 8,
-        "district": "Dinajpur",
-        "institution_count": 1,
-        "institutions": [
-          "Cantonment Public School & College, Kholahati"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          88.6354504,
-          25.6217061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 9,
-        "district": "Lalmonirhat",
-        "institution_count": 1,
-        "institutions": [
-          "Cantonment Public School & College, Lalmonirhat"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          89.4532409,
-          25.9165451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 10,
-        "district": "Cox's Bazar",
-        "institution_count": 1,
-        "institutions": [
-          "Ramu Cantonment English School & College"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          91.97381741,
-          21.44315751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker": 11,
-        "district": "Dhaka",
-        "institution_count": 2,
-        "institutions": [
-          "Sena Public School & College, Savar",
-          "Savar Cantonment Morning Glory School & College"
-        ],
-        "coordinate_type": "District administrative reference point; not a surveyed or verified campus coordinate."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.4111451,
-          23.7115253
-        ]
-      }
-    }
-  ]
-}
-```
-
-**Download the location data:**
-
-- [GeoJSON — district reference points](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.geojson) · Open the data as a map in GitHub or use it in GIS software.
-- [KML — district reference points](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.kml) · Import into Google Earth or Google My Maps.
-- [CSV — coordinates and institution names](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.csv) · Use in Excel, GIS or other analysis tools.
+This version provides a Google Earth **KML map** containing 13 numbered placemarks. Each placemark includes the corresponding numbered school photograph in its information balloon and a link to search for the institution in Google Maps.
 
 <details>
-<summary><strong>📌 How to view the KML in Google My Maps</strong></summary>
+<summary><strong>🧭 How to open the map with all 13 photographs (Google Earth Pro)</strong></summary>
 
-1. Download the [KML file](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/more-interactive/assets/institutions-district-reference-points.kml).
-2. Open [Google My Maps](https://www.google.com/mymaps).
-3. Create a new map and choose **Import** for a layer.
-4. Upload the downloaded KML file.
-5. The map will show one reference point for each district, with the institution names listed in the marker details.
+1. Open the [interactive-1.1 branch](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/tree/interactive-1.1).
+2. Click **Code → Download ZIP** and extract the downloaded folder. Keep the folder structure intact.
+3. Open **Google Earth Pro** on your computer.
+4. Select **File → Open** and choose `assets/schools-map-photos.kml` from the extracted repository folder.
+5. Expand the 13 institution placemarks in the Places panel.
+6. Click a numbered marker to open its information balloon and view the matching school photograph.
+7. Use the **Open in Google Maps** link inside the balloon to search for that institution in Google Maps.
 
-**Important:** the imported markers identify district reference locations, not the actual campuses.
+**Important:** Open the KML from the extracted folder, not directly from the GitHub webpage. The photos are referenced as local files in the sibling `assets/school-photos/` directory; keeping the folder structure intact allows Google Earth Pro to load them.
 
 </details>
 
-### 🏫 Institutions included
+**[⬇️ View / download the Google Earth KML file](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/interactive-1.1/assets/schools-map-photos.kml)**
 
-| Sl. | Educational institution | District | Map search |
+**Photo assets:** [Open the 13 school photographs](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/tree/interactive-1.1/assets/school-photos)
+
+### 📍 Location accuracy
+
+The KML uses Google Earth address geocoding based on each institution's name and locality rather than fabricated latitude/longitude coordinates. Google Earth may place a result near a locality or similarly named facility rather than exactly on the campus. **Visually verify every marker against the actual institution before using it for navigation, distance measurement, surveying or engineering work.** The attached photographs are reference images supplied for this repository; they are not geotagged survey photographs.
+
+### 🏫 Institution directory and photo matching
+
+Photograph numbers correspond exactly to the serial numbers in the institution list and to the placemark numbers in Google Earth.
+
+| No. | Educational institution | District | Reference photo |
 | --: | --- | --- | --- |
-| 01 | Sena Public School & College, Kalukhali | Rajbari | [📍 Map](https://www.google.com/maps/search/?api=1&query=Sena+Public+School+%26+College+Kalukhali+Rajbari) |
-| 02 | Military Collegiate School, Faridpur | Faridpur | [📍 Map](https://www.google.com/maps/search/?api=1&query=Military+Collegiate+School+Faridpur) |
-| 03 | Cantonment Public School & College, Jahanabad | Khulna | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantonment+Public+School+%26+College+Jahanabad+Khulna) |
-| 04 | Military Collegiate School, Khulna | Khulna | [📍 Map](https://www.google.com/maps/search/?api=1&query=Military+Collegiate+School+Khulna) |
-| 05 | Cantonment Public School & College, Saidpur | Nilphamari | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantonment+Public+School+%26+College+Saidpur+Nilphamari) |
-| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | [📍 Map](https://www.google.com/maps/search/?api=1&query=Padma+Cantonment+Public+School+College+Jajira+Shariatpur) |
-| 07 | Jessore English School & College | Jashore | [📍 Map](https://www.google.com/maps/search/?api=1&query=Jessore+English+School+%26+College+Jashore) |
-| 08 | Barishal Cantonment Public School & College | Barishal | [📍 Map](https://www.google.com/maps/search/?api=1&query=Barishal+Cantonment+Public+School+%26+College) |
-| 09 | Cantonment Public School & College, Kholahati | Dinajpur | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantonment+Public+School+%26+College+Kholahati+Dinajpur) |
-| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantonment+Public+School+%26+College+Lalmonirhat) |
-| 11 | Ramu Cantonment English School & College | Cox's Bazar | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ramu+Cantonment+English+School+College+Coxs+Bazar) |
-| 12 | Sena Public School & College, Savar | Dhaka | [📍 Map](https://www.google.com/maps/search/?api=1&query=Sena+Public+School+College+Savar+Dhaka) |
-| 13 | Savar Cantonment Morning Glory School & College | Dhaka | [📍 Map](https://www.google.com/maps/search/?api=1&query=Savar+Cantonment+Morning+Glory+School+College) |
+| 01 | Sena Public School & College, Kalukhali | Rajbari | <img src="school-photos/01.jpg" width="120" alt="School photograph 01"> |
+| 02 | Military Collegiate School, Faridpur | Faridpur | <img src="school-photos/02.jpg" width="120" alt="School photograph 02"> |
+| 03 | Cantonment Public School & College, Jahanabad | Khulna | <img src="school-photos/03.jpg" width="120" alt="School photograph 03"> |
+| 04 | Military Collegiate School, Khulna | Khulna | <img src="school-photos/04.jpg" width="120" alt="School photograph 04"> |
+| 05 | Cantonment Public School & College, Saidpur | Nilphamari | <img src="school-photos/05.jpg" width="120" alt="School photograph 05"> |
+| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | <img src="school-photos/06.jpg" width="120" alt="School photograph 06"> |
+| 07 | Jessore English School & College | Jashore | <img src="school-photos/07.jpg" width="120" alt="School photograph 07"> |
+| 08 | Barishal Cantonment Public School & College | Barishal | <img src="school-photos/08.jpg" width="120" alt="School photograph 08"> |
+| 09 | Cantonment Public School & College, Kholahati | Dinajpur | <img src="school-photos/09.jpg" width="120" alt="School photograph 09"> |
+| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | <img src="school-photos/10.jpg" width="120" alt="School photograph 10"> |
+| 11 | Ramu Cantonment English School & College | Cox's Bazar | <img src="school-photos/11.jpg" width="120" alt="School photograph 11"> |
+| 12 | Sena Public School & College, Savar | Dhaka | <img src="school-photos/12.jpg" width="120" alt="School photograph 12"> |
+| 13 | Savar Cantonment Morning Glory School & College | Dhaka | <img src="school-photos/13.jpg" width="120" alt="School photograph 13"> |
 
-<sub>Map-search links open a Google Maps search for the institution name; the result should be checked before using it as a campus location. District reference coordinate source: <a href="https://github.com/mdtanvirahamedshanto/bd-geo-info">bd-geo-info</a> (district latitude/longitude data). This is a community-maintained reference dataset, not a campus survey.</sub>
+**Google Earth format:** [KML documentation](https://developers.google.com/kml/documentation) · [Google Earth Help](https://support.google.com/earth/answer/148142)
+
 
 <a id="project-dashboard"></a>
 
