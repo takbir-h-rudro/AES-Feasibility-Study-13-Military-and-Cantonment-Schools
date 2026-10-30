@@ -473,19 +473,6 @@ The feasibility study follows an integrated assessment framework combining insti
 
 ![Horizontal serpentine workflow: first four stages move left-to-right, the next four right-to-left, and the final two left-to-right](assets/methodological-framework-serpentine.svg)
 
-```mermaid
-flowchart TD
-    A["Institution-wise data collection"] --> B["Existing facility and capacity assessment"]
-    B --> C["Enrollment and demand projection"]
-    C --> D["Infrastructure gap identification"]
-    D --> E["Architectural and engineering proposals"]
-    E --> F["Cost estimation"]
-    F --> G["Environmental, climate and disaster-risk assessment"]
-    G --> H["Financial and economic evaluation"]
-    H --> I["Sensitivity and implementation analysis"]
-    I --> J["Recommendations and feasibility conclusions"]
-```
-
 <a id="codes-standards"></a>
 
 ## 📐 8. Applicable Codes, Standards and Guidelines
