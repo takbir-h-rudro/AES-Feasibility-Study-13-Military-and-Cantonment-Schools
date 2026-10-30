@@ -80,40 +80,32 @@ The principal objectives of the feasibility study were to:
 
 <a id="geographic-coverage"></a>
 
-## 📍 4. Geographic Coverage & Google Earth Photo Map
+## 📍 4. Geographic Coverage & Map
 
-The 13 institutions are distributed across **11 districts** in Bangladesh. Khulna and Dhaka each account for two institutions; the remaining districts account for one institution each.
+The 13 institutions are distributed across **11 districts and 5 divisions** of Bangladesh. Khulna and Dhaka each account for two institutions; the remaining districts account for one institution each.
 
-### 🌏 Open the 13-school photo map in Google Earth
+### 🗺️ Geographical distribution of the 13 institutions
 
-This version provides a Google Earth **KML map** containing 13 numbered placemarks. Each placemark includes the corresponding numbered school photograph in its information balloon and a link to search for the institution in Google Maps.
+The following map presents the institution locations on a Bangladesh administrative base map. It includes district and division boundaries, major rivers and roads, a north arrow, scale, numbered school markers, inset views for closely spaced locations, and the corresponding school photographs.
 
-<details>
-<summary><strong>🧭 How to open the map with all 13 photographs (Google Earth Pro)</strong></summary>
+![Geographical distribution of 13 selected military and cantonment educational institutions across Bangladesh, with numbered markers and school photographs](assets/Bangladesh_13_Schools_Map.svg)
 
-1. Open the [interactive-1.1 branch](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/tree/interactive-1.1).
-2. Click **Code → Download ZIP** and extract the downloaded folder. Keep the folder structure intact.
-3. Open **Google Earth Pro** on your computer.
-4. Select **File → Open** and choose `assets/schools-map-photos.kml` from the extracted repository folder.
-5. Expand the 13 institution placemarks in the Places panel.
-6. Click a numbered marker to open its information balloon and view the matching school photograph.
-7. Use the **Open in Google Maps** link inside the balloon to search for that institution in Google Maps.
+<p align="center">
+  <a href="assets/Bangladesh_13_Schools_Map.svg">View the full-size SVG map</a>
+</p>
 
-**Important:** Open the KML from the extracted folder, not directly from the GitHub webpage. The photos are referenced as local files in the sibling `assets/school-photos/` directory; keeping the folder structure intact allows Google Earth Pro to load them.
+**Map coverage:** 13 school locations · 11 districts · 5 divisions
 
-</details>
-
-**[⬇️ View / download the Google Earth KML file](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/blob/interactive-1.1/assets/schools-map-photos.kml)**
-
-**Photo assets:** [Open the 13 school photographs](https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools/tree/interactive-1.1/assets/school-photos)
-
-### 📍 Location accuracy
-
-The KML uses Google Earth address geocoding based on each institution's name and locality rather than fabricated latitude/longitude coordinates. Google Earth may place a result near a locality or similarly named facility rather than exactly on the campus. **Visually verify every marker against the actual institution before using it for navigation, distance measurement, surveying or engineering work.** The attached photographs are reference images supplied for this repository; they are not geotagged survey photographs.
+**Coordinate and mapping notes:**
+- Marker coordinates are plotted from the supplied school-coordinate CSV; no coordinates were estimated.
+- The map notes that all 13 plotted points fall inside their stated district polygons.
+- The two inset panels provide enlarged context for the closely spaced Khulna and Savar institution pairs.
+- The map shows the schools as independent locations; no route or connection between institutions is implied.
+- The photographs are matched to the numbered markers and institution directory below.
 
 ### 🏫 Institution directory and photo matching
 
-Photograph numbers correspond exactly to the serial numbers in the institution list and to the placemark numbers in Google Earth.
+Photograph numbers correspond to the serial numbers in the institution list and the numbered markers in the map.
 
 | No. | Educational institution | District | Reference photo |
 | --: | --- | --- | --- |
@@ -130,8 +122,6 @@ Photograph numbers correspond exactly to the serial numbers in the institution l
 | 11 | Ramu Cantonment English School & College | Cox's Bazar | <img src="assets/school-photos/11.jpg" width="120" alt="School photograph 11"> |
 | 12 | Sena Public School & College, Savar | Dhaka | <img src="assets/school-photos/12.jpg" width="120" alt="School photograph 12"> |
 | 13 | Savar Cantonment Morning Glory School & College | Dhaka | <img src="assets/school-photos/13.jpg" width="120" alt="School photograph 13"> |
-
-**Google Earth format:** [KML documentation](https://developers.google.com/kml/documentation) · [Google Earth Help](https://support.google.com/earth/answer/148142)
 
 
 <a id="project-dashboard"></a>
@@ -294,7 +284,7 @@ This branch adds the README's map data under `assets/`. The wider documentation 
 
 | Directory | Description |
 | --- | --- |
-| `assets/` | GeoJSON, KML and CSV district reference-point map data |
+| `assets/` | Bangladesh school distribution SVG map and numbered school photographs |
 | `01_Project_Overview/` | Project background, scope and executive summary |
 | `02_Main_Feasibility_Report/` | Consolidated feasibility report |
 | `03_Demand_Projection/` | Enrollment and capacity projections |
@@ -329,9 +319,9 @@ The proposed interventions aim to expand educational capacity, improve the quali
 
 - Project statistics and institutional names are presented as summarized in the feasibility study overview.
 - The capital investment figure is rounded to **Tk. 942 crore** for this README.
-- District coordinate references are sourced from the public [bd-geo-info dataset](https://github.com/mdtanvirahamedshanto/bd-geo-info). They are **not verified campus coordinates**.
-- Google Maps links are name-based search links. Confirm the result before treating it as the institution's exact site.
-- The interactive charts and methodology diagram use Mermaid; the geographic data is supplied as GeoJSON and KML.
+- The geographic map uses the supplied school-coordinate CSV and gallery photographs; its own source notes state that all 13 points fall within their stated district polygons.
+- Base map attribution shown in the figure: Natural Earth 1:10m (public domain); district and division boundaries from geoBoundaries BGD ADM1-2 (CC BY 4.0).
+- The interactive charts and methodology diagram use Mermaid; the geographic distribution is presented in the supplied SVG map.
 
 ---
 
