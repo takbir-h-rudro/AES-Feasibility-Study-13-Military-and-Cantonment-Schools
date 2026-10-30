@@ -117,19 +117,19 @@ Photograph numbers correspond exactly to the serial numbers in the institution l
 
 | No. | Educational institution | District | Reference photo |
 | --: | --- | --- | --- |
-| 01 | Sena Public School & College, Kalukhali | Rajbari | <img src="school-photos/01.jpg" width="120" alt="School photograph 01"> |
-| 02 | Military Collegiate School, Faridpur | Faridpur | <img src="school-photos/02.jpg" width="120" alt="School photograph 02"> |
-| 03 | Cantonment Public School & College, Jahanabad | Khulna | <img src="school-photos/03.jpg" width="120" alt="School photograph 03"> |
-| 04 | Military Collegiate School, Khulna | Khulna | <img src="school-photos/04.jpg" width="120" alt="School photograph 04"> |
-| 05 | Cantonment Public School & College, Saidpur | Nilphamari | <img src="school-photos/05.jpg" width="120" alt="School photograph 05"> |
-| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | <img src="school-photos/06.jpg" width="120" alt="School photograph 06"> |
-| 07 | Jessore English School & College | Jashore | <img src="school-photos/07.jpg" width="120" alt="School photograph 07"> |
-| 08 | Barishal Cantonment Public School & College | Barishal | <img src="school-photos/08.jpg" width="120" alt="School photograph 08"> |
-| 09 | Cantonment Public School & College, Kholahati | Dinajpur | <img src="school-photos/09.jpg" width="120" alt="School photograph 09"> |
-| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | <img src="school-photos/10.jpg" width="120" alt="School photograph 10"> |
-| 11 | Ramu Cantonment English School & College | Cox's Bazar | <img src="school-photos/11.jpg" width="120" alt="School photograph 11"> |
-| 12 | Sena Public School & College, Savar | Dhaka | <img src="school-photos/12.jpg" width="120" alt="School photograph 12"> |
-| 13 | Savar Cantonment Morning Glory School & College | Dhaka | <img src="school-photos/13.jpg" width="120" alt="School photograph 13"> |
+| 01 | Sena Public School & College, Kalukhali | Rajbari | <img src="assets/school-photos/01.jpg" width="120" alt="School photograph 01"> |
+| 02 | Military Collegiate School, Faridpur | Faridpur | <img src="assets/school-photos/02.jpg" width="120" alt="School photograph 02"> |
+| 03 | Cantonment Public School & College, Jahanabad | Khulna | <img src="assets/school-photos/03.jpg" width="120" alt="School photograph 03"> |
+| 04 | Military Collegiate School, Khulna | Khulna | <img src="assets/school-photos/04.jpg" width="120" alt="School photograph 04"> |
+| 05 | Cantonment Public School & College, Saidpur | Nilphamari | <img src="assets/school-photos/05.jpg" width="120" alt="School photograph 05"> |
+| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | <img src="assets/school-photos/06.jpg" width="120" alt="School photograph 06"> |
+| 07 | Jessore English School & College | Jashore | <img src="assets/school-photos/07.jpg" width="120" alt="School photograph 07"> |
+| 08 | Barishal Cantonment Public School & College | Barishal | <img src="assets/school-photos/08.jpg" width="120" alt="School photograph 08"> |
+| 09 | Cantonment Public School & College, Kholahati | Dinajpur | <img src="assets/school-photos/09.jpg" width="120" alt="School photograph 09"> |
+| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | <img src="assets/school-photos/10.jpg" width="120" alt="School photograph 10"> |
+| 11 | Ramu Cantonment English School & College | Cox's Bazar | <img src="assets/school-photos/11.jpg" width="120" alt="School photograph 11"> |
+| 12 | Sena Public School & College, Savar | Dhaka | <img src="assets/school-photos/12.jpg" width="120" alt="School photograph 12"> |
+| 13 | Savar Cantonment Morning Glory School & College | Dhaka | <img src="assets/school-photos/13.jpg" width="120" alt="School photograph 13"> |
 
 **Google Earth format:** [KML documentation](https://developers.google.com/kml/documentation) · [Google Earth Help](https://support.google.com/earth/answer/148142)
 
