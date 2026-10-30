@@ -320,27 +320,9 @@ The proposed interventions aim to expand educational capacity, improve the quali
 
 ## 🔎 Data notes & credits
 
-### 📑 Project and institution data
-- Project statistics and institutional names are summarized from the completed feasibility study report.
-- The capital investment figure is rounded to **Tk. 942 crore** for this README.
-- The updated [`assets/schools.csv`](assets/schools.csv) is the source coordinate register for the 13 mapped institutions. It retains the supplied columns: gallery reference number, district, latitude, longitude, institution count, and institution name.
-- The CSV contains 13 institution records. Its gallery reference numbers correspond to the numbered photographs in [`assets/school-photos/`](assets/school-photos/).
-- Coordinates are transcribed from the supplied CSV and are not represented as independently surveyed or field-verified measurements.
-
-### 🗺️ Map data and cartographic credits
-- The Bangladesh map in [`assets/Bangladesh_13_Schools_Map.svg`](assets/Bangladesh_13_Schools_Map.svg) plots the school coordinates from `assets/schools.csv` over the administrative base map.
-- Base-map source: [Natural Earth 1:10m](https://www.naturalearthdata.com/), public-domain map data. Suggested attribution: “Made with Natural Earth.”
-- Administrative boundary source: [geoBoundaries](https://www.geoboundaries.org/countryDownloads.html), Bangladesh ADM1–ADM2 boundaries, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribution is retained here as required by the dataset's open license.
-- The map's own notes indicate that the 13 plotted points fall inside their stated district polygons. The map also includes enlarged insets for the closely spaced Khulna and Savar pairs.
-
-### 📈 Visual assets
-- The dashboard charts and serpentine methodological workflow are maintained as separate SVG files under `assets/`.
-- The geographic distribution is shown in the single current Bangladesh schools map SVG; the updated CSV is retained as its supporting coordinate dataset.
-- The school photographs are supplied reference images and are matched to institution numbers 01–13 in the README directory.
-
-### 🧹 Repository housekeeping
-- The earlier intermediate district-reference GeoJSON/KML files are not required by the current README and are not retained in this branch.
-- The current map SVG, its supporting `schools.csv`, the 13 school photographs, dashboard charts, and methodology figure are retained because they are used by the current README.
+- Project details and statistics are summarized from the September 2026 feasibility study report.
+- School coordinates and photo numbering are taken from [`assets/schools.csv`](assets/schools.csv); photographs are in [`assets/school-photos/`](assets/school-photos/).
+- Map data: [Natural Earth](https://www.naturalearthdata.com/) (public domain) and [geoBoundaries Bangladesh ADM1–ADM2](https://www.geoboundaries.org/countryDownloads.html) (CC BY 4.0).
 
 ---
 
