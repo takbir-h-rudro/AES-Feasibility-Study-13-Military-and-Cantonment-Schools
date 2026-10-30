@@ -365,26 +365,19 @@ The consolidated feasibility assessment identifies the following major project p
 
 ### 🏗️ Proposed structure breakdown
 
-The 44 proposed structures are distributed across four categories:
+![Bar chart showing 15 academic and multipurpose buildings, 10 auditoriums, 4 hostels and 15 residential/supporting structures](assets/proposed-structure-breakdown.svg)
 
-```mermaid
-pie showData
-    title Proposed structures — 44 in total
-    "Academic / multipurpose" : 15
-    "Auditoriums" : 10
-    "Hostels" : 4
-    "Residential / supporting" : 15
-```
+<sub>Spacing specification: each bar is 140 px wide; the clear gap is 70 px (50% of bar width).</sub>
+
+
 
 ### 👩‍🎓 Existing enrollment vs proposed additional capacity
 
-```mermaid
-xychart-beta
-    title "Student enrollment and proposed additional capacity"
-    x-axis ["Existing enrollment", "Proposed additional capacity"]
-    y-axis "Students" 0 --> 30000
-    bar [26229, 15550]
-```
+![Bar chart comparing existing enrollment of 26,229 students with proposed additional capacity of 15,550 students](assets/enrollment-vs-additional-capacity.svg)
+
+<sub>Spacing specification: each bar is 180 px wide; the clear gap is 90 px (50% of bar width).</sub>
+
+
 
 <sub>The proposed additional capacity is a planning parameter, not a forecast of actual future enrollment. Investment is rounded to Tk. 942 crore in this overview.</sub>
 
@@ -477,6 +470,8 @@ The study encompasses the following major assessment components:
 ## 🔄 7. Methodological Framework
 
 The feasibility study follows an integrated assessment framework combining institutional data collection, demand forecasting, engineering assessment, infrastructure planning, cost estimation, and economic evaluation.
+
+![Horizontal serpentine workflow: first four stages move left-to-right, the next four right-to-left, and the final two left-to-right](assets/methodological-framework-serpentine.svg)
 
 ```mermaid
 flowchart TD
