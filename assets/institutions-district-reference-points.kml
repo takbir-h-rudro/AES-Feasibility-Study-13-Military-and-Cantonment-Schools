@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Selected Military and Cantonment Educational Institutions — District Reference Points</name>
+    <description>11 district reference points representing 13 institutions. These are district administrative reference coordinates, not surveyed or verified campus coordinates.</description>
+    <Placemark>
+      <name>1. Rajbari (1 institution)</name>
+      <description>Sena Public School &amp; College, Kalukhali&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>89.6444665,23.7574305,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>2. Faridpur (1 institution)</name>
+      <description>Military Collegiate School, Faridpur&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>89.8429406,23.6070822,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>3. Khulna (2 institutions)</name>
+      <description>Cantonment Public School &amp; College, Jahanabad, Khulna; Military Collegiate School, Khulna&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>89.568679,22.815774,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>4. Nilphamari (1 institution)</name>
+      <description>Cantonment Public School &amp; College, Saidpur&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>88.856006,25.931794,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>5. Shariatpur (1 institution)</name>
+      <description>Padma Cantonment Public School &amp; College, Jajira&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>90.3477725,23.2060195,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>6. Jashore (1 institution)</name>
+      <description>Jessore English School &amp; College&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>89.2081126,23.16643,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>7. Barishal (1 institution)</name>
+      <description>Barishal Cantonment Public School &amp; College&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>90.3731568,22.7004179,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>8. Dinajpur (1 institution)</name>
+      <description>Cantonment Public School &amp; College, Kholahati&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>88.6354504,25.6217061,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>9. Lalmonirhat (1 institution)</name>
+      <description>Cantonment Public School &amp; College, Lalmonirhat&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>89.4532409,25.9165451,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>10. Cox's Bazar (1 institution)</name>
+      <description>Ramu Cantonment English School &amp; College&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>91.97381741,21.44315751,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>11. Dhaka (2 institutions)</name>
+      <description>Sena Public School &amp; College, Savar; Savar Cantonment Morning Glory School &amp; College&#10;Coordinate note: district administrative reference point, not campus location.</description>
+      <Point><coordinates>90.4111451,23.7115253,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
