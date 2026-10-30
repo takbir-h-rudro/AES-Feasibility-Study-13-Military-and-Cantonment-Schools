@@ -491,19 +491,6 @@ flowchart TD
     I --> J["Recommendations and feasibility conclusions"]
 ```
 
-The major methodological components include:
-
-1. Collection and assessment of institution-wise information.
-2. Analysis of historical enrollment, admissions, and existing capacity.
-3. Projection of future student demand and infrastructure requirements.
-4. Assessment of existing physical infrastructure and identified deficiencies.
-5. Development of proposed architectural and engineering solutions.
-6. Estimation of infrastructure development costs.
-7. Assessment of environmental, climate, and disaster-related considerations.
-8. Economic evaluation and sensitivity analysis.
-9. Assessment of institutional, administrative, and implementation requirements.
-10. Formulation of recommendations and conclusions.
-
 <a id="codes-standards"></a>
 
 ## 📐 8. Applicable Codes, Standards and Guidelines
