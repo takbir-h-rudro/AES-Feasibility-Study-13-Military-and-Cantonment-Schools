@@ -49,7 +49,7 @@ The feasibility study provides a comprehensive technical, economic, environmenta
 | 🗺️ Geographic spread | 11 districts across Bangladesh |
 | 🏗️ Infrastructure proposal | 44 proposed structures |
 | 👩‍🎓 Existing enrollment | 26,229 students |
-| ➕ Proposed additional capacity | 15,550 students |
+| ➕ Proposed additional capacity | 19,578 students |
 | 📐 Additional built-up area | 160,112 m² |
 | 🛏️ Additional hostel capacity | 750 beds |
 | 💰 Estimated capital investment | Approximately Tk. 942 crore |
@@ -136,7 +136,7 @@ The consolidated feasibility assessment identifies the following major project p
 | --- | ---: |
 | Number of institutions | **13** |
 | Existing student enrollment | **26,229** |
-| Additional student capacity proposed | **15,550** |
+| Additional student capacity proposed | **19,578** |
 | Proposed additional built-up area | **160,112 m²** |
 | Total proposed structures | **44** |
 | Proposed additional hostel capacity | **750 beds** |
