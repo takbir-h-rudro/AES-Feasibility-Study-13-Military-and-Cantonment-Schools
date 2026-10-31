@@ -88,10 +88,10 @@ The 13 institutions are distributed across **11 districts and 5 divisions** of B
 
 The following map presents the institution locations on a Bangladesh administrative base map. It includes district and division boundaries, major rivers and roads, a north arrow, scale, numbered school markers, inset views for closely spaced locations, and the corresponding school photographs.
 
-![Geographical distribution of 13 selected military and cantonment educational institutions across Bangladesh, with numbered markers and school photographs](school project/Bangladesh_13_Schools_Map.svg)
+![Geographical distribution of 13 selected military and cantonment educational institutions across Bangladesh, with numbered markers and school photographs](assets/Bangladesh_13_Schools_Map.svg)
 
 <p align="center">
-  <a href="school project/Bangladesh_13_Schools_Map.svg">View the full-size SVG map</a>
+  <a href="assets/Bangladesh_13_Schools_Map.svg">View the full-size SVG map</a>
 </p>
 
 **Supporting coordinate data:** [Download `schools.csv`](assets/schools.csv) · 13 school records with district, latitude/longitude, institution name, and matching gallery image number.
