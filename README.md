@@ -106,9 +106,9 @@ The following map presents the institution locations on a Bangladesh administrat
 - The two inset panels provide enlarged context for the closely spaced Khulna and Savar institution pairs.
 - The map shows the schools as independent locations; no route or connection between institutions is implied.
 
-### 🏫 Institution directory and photo matching
+### 🏫 List of all Institutions
 
-Photograph numbers correspond to the serial numbers in the institution list and the numbered markers in the map. Select a photo filename to open the corresponding image in `assets/school-photos/`.
+The list of all institutions that was in this project scope are given below. Select a photo filename to open the corresponding image in `assets/school-photos/`.
 
 | No. | Educational institution | District | Upazilla/Thana | Reference photo |
 | --: | --- | --- | --- | --- |
