@@ -150,11 +150,13 @@ The consolidated feasibility assessment identifies the following major project p
 
 
 
-### 👩‍🎓 Existing enrollment vs proposed additional capacity
+### 👩‍🎓 Future projected students
 
-![Bar chart comparing existing enrollment of 26,229 students with proposed additional capacity of 15,550 students](assets/enrollment-vs-additional-capacity.svg)
+![Grouped vertical bar chart showing existing/base condition in 2026 and future student demand in 2031 and 2036, with and without the project](assets/enrollment-vs-additional-capacity.svg)
 
-<sub>Spacing specification: each bar is 180 px wide; the clear gap is 90 px (50% of bar width).</sub>
+**Chart data:** [Download `future-projected-students.csv`](assets/future-projected-students.csv)
+
+The chart compares the existing/base condition with projected student demand under the without-project and with-project scenarios. The vertical axis starts at zero; each bar is labelled with its exact student count.
 
 
 
