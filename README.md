@@ -7,7 +7,10 @@
   <img alt="Report" src="https://img.shields.io/badge/Report-September%202026-7c3aed?style=for-the-badge">
 </p>
 
-**Prepared by:** Md. Takbir Hossain *Project Engineer, Atlas Engineering Solution (AES)*  
+**Prepared by:** 
+Md. Takbir Hossain 
+*Project Engineer, 
+Atlas Engineering Solution (AES)*  
 **Reporting Date:** September 2026  
 **Project Location:** Bangladesh  
 **Project Sector:** Education Infrastructure Development  
