@@ -108,24 +108,23 @@ The following map presents the institution locations on a Bangladesh administrat
 
 ### 🏫 Institution directory and photo matching
 
-Photograph numbers correspond to the serial numbers in the institution list and the numbered markers in the map.
+Photograph numbers correspond to the serial numbers in the institution list and the numbered markers in the map. Select a photo filename to open the corresponding image in `assets/school-photos/`.
 
-| No. | Educational institution | District | Reference photo |
-| --: | --- | --- | --- |
-| 01 | Sena Public School & College, Kalukhali | Rajbari | <img src="assets/school-photos/01.jpg" width="120" alt="School photograph 01"> |
-| 02 | Military Collegiate School, Faridpur | Faridpur | <img src="assets/school-photos/02.jpg" width="120" alt="School photograph 02"> |
-| 03 | Cantonment Public School & College, Jahanabad | Khulna | <img src="assets/school-photos/03.jpg" width="120" alt="School photograph 03"> |
-| 04 | Military Collegiate School, Khulna | Khulna | <img src="assets/school-photos/04.jpg" width="120" alt="School photograph 04"> |
-| 05 | Cantonment Public School & College, Saidpur | Nilphamari | <img src="assets/school-photos/05.jpg" width="120" alt="School photograph 05"> |
-| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | <img src="assets/school-photos/06.jpg" width="120" alt="School photograph 06"> |
-| 07 | Jessore English School & College | Jashore | <img src="assets/school-photos/07.jpg" width="120" alt="School photograph 07"> |
-| 08 | Barishal Cantonment Public School & College | Barishal | <img src="assets/school-photos/08.jpg" width="120" alt="School photograph 08"> |
-| 09 | Cantonment Public School & College, Kholahati | Dinajpur | <img src="assets/school-photos/09.jpg" width="120" alt="School photograph 09"> |
-| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | <img src="assets/school-photos/10.jpg" width="120" alt="School photograph 10"> |
-| 11 | Ramu Cantonment English School & College | Cox's Bazar | <img src="assets/school-photos/11.jpg" width="120" alt="School photograph 11"> |
-| 12 | Sena Public School & College, Savar | Dhaka | <img src="assets/school-photos/12.jpg" width="120" alt="School photograph 12"> |
-| 13 | Savar Cantonment Morning Glory School & College | Dhaka | <img src="assets/school-photos/13.jpg" width="120" alt="School photograph 13"> |
-
+| No. | Educational institution | District | Upazilla/Thana | Reference photo |
+| --: | --- | --- | --- | --- |
+| 01 | Sena Public School & College, Kalukhali | Rajbari | Kalukhali | [01.jpg](assets/school-photos/01.jpg) |
+| 02 | Military Collegiate School, Faridpur | Faridpur | Faridpur Sadar | [02.jpg](assets/school-photos/02.jpg) |
+| 03 | Cantonment Public School & College, Jahanabad | Khulna | Phultala | [03.jpg](assets/school-photos/03.jpg) |
+| 04 | Military Collegiate School, Khulna | Khulna | Phultala | [04.jpg](assets/school-photos/04.jpg) |
+| 05 | Cantonment Public School & College, Saidpur | Nilphamari | Saidpur | [05.jpg](assets/school-photos/05.jpg) |
+| 06 | Padma Cantonment Public School & College, Jajira | Shariatpur | Jajira | [06.jpg](assets/school-photos/06.jpg) |
+| 07 | Jessore English School & College | Jashore | Jashore Sadar | [07.jpg](assets/school-photos/07.jpg) |
+| 08 | Barishal Cantonment Public School & College | Barishal | Bakerganj | [08.jpg](assets/school-photos/08.jpg) |
+| 09 | Cantonment Public School & College, Kholahati | Dinajpur | Parbatipur | [09.jpg](assets/school-photos/09.jpg) |
+| 10 | Cantonment Public School & College, Lalmonirhat | Lalmonirhat | Lalmonirhat Sadar | [10.jpg](assets/school-photos/10.jpg) |
+| 11 | Ramu Cantonment English School & College | Cox's Bazar | Ramu | [11.jpg](assets/school-photos/11.jpg) |
+| 12 | Sena Public School & College, Savar | Dhaka | Savar | [12.jpg](assets/school-photos/12.jpg) |
+| 13 | Savar Cantonment Morning Glory School & College | Dhaka | Savar | [13.jpg](assets/school-photos/13.jpg) |
 
 <a id="project-dashboard"></a>
 
