@@ -146,10 +146,6 @@ The consolidated feasibility assessment identifies the following major project p
 
 ![Bar chart showing 15 academic and multipurpose buildings, 10 auditoriums, 4 hostels and 15 residential/supporting structures](assets/proposed-structure-breakdown.svg)
 
-<sub>Spacing specification: each bar is 140 px wide; the clear gap is 70 px (50% of bar width).</sub>
-
-
-
 ### 👩‍🎓 Future projected students
 
 ![Grouped vertical bar chart showing existing/base condition in 2026 and future student demand in 2031 and 2036, with and without the project](assets/enrollment-vs-additional-capacity.svg)
