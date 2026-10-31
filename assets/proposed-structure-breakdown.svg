@@ -18,5 +18,4 @@
 <text class="cat" x="470" y="425" text-anchor="middle">Auditoriums</text>
 <text class="cat" x="680" y="425" text-anchor="middle">Hostels</text>
 <text class="cat" x="890" y="425" text-anchor="middle"><tspan x="890">Residential /</tspan><tspan x="890" dy="23">supporting</tspan></text>
-<text class="sub" x="60" y="505">Bar width: 140 px · Gap between bars: 70 px (50% of bar width)</text>
 </svg>
