@@ -280,26 +280,9 @@ The completed feasibility study includes:
 - 📂 Supporting survey data and technical appendices.
 - ✅ Recommendations and implementation considerations.
 
-## 🗂️ 10. Repository Structure
-
-This branch adds the README's map data under `assets/`. The wider documentation folders below are a **proposed organization**; they should be populated as the corresponding source files are added to the repository.
-
-| Directory | Description |
-| --- | --- |
-| `assets/` | Bangladesh school distribution SVG map and numbered school photographs |
-| `01_Project_Overview/` | Project background, scope and executive summary |
-| `02_Main_Feasibility_Report/` | Consolidated feasibility report |
-| `03_Demand_Projection/` | Enrollment and capacity projections |
-| `05_Infrastructure_and_Design/` | Architectural and engineering documentation |
-| `06_Cost_Estimation/` | Detailed infrastructure cost estimates |
-| `07_Financial_and_Economic_Analysis/` | Economic appraisal and supporting calculations |
-| `08_Environmental_and_Disaster_Risk/` | Environmental and climate resilience assessments |
-| `09_Risk_and_Sensitivity_Analysis/` | Risk and sensitivity analysis |
-| `10_Presentations_and_Summaries/` | Presentations and supplementary documentation |
-
 <a id="project-significance"></a>
 
-## 🌟 11. Project Significance
+## 🌟 10. Project Significance
 
 The study provides a consolidated planning and feasibility framework for the development of educational infrastructure across 13 geographically distributed military and cantonment educational institutions.
 
@@ -307,7 +290,7 @@ By integrating institutional demand, infrastructure deficiencies, engineering re
 
 The proposed interventions aim to expand educational capacity, improve the quality of learning environments, modernize academic and supporting facilities, and strengthen the long-term sustainability of educational infrastructure.
 
-## 🙏 12. Acknowledgement
+## 🙏 11. Acknowledgement
 
 **Commissioning / Sponsoring Division:** Secondary and Higher Education Division, Ministry of Education, Government of Bangladesh.
 
