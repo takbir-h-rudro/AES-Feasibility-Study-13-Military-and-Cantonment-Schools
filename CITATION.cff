@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you refer to this public summary, please cite it as below."
+title: "Feasibility Study for Infrastructure Development of Selected Military and Cantonment Educational Institutions (13 Institutions) - Public Summary"
+type: report
+version: "1.0"
+date-released: "2026-11-03"
+abstract: >-
+  Public overview of a feasibility study for infrastructure development of 13
+  military and cantonment educational institutions in Bangladesh. This
+  repository is a summary only; the full report, drawings, cost estimates and
+  survey data are not included.
+authors:
+  - family-names: "Hossain"
+    given-names: "Md. Takbir"
+    affiliation: "Atlas Engineering Solution (AES)"
+repository-code: "https://github.com/takbir-h-rudro/AES-Feasibility-Study-13-Military-and-Cantonment-Schools"
+keywords:
+  - feasibility study
+  - education infrastructure
+  - Bangladesh
+  - cantonment schools
