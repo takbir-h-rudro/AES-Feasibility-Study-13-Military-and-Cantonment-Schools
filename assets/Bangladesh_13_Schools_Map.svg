@@ -53031,7 +53031,7 @@ L 282.96 422.64
 " clip-path="url(#p50ed2b05a3)" style="fill: none; stroke: #d5d9e2; stroke-width: 0.9; stroke-linecap: square"/>
    </g>
    <g id="text_62">
-    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Inter'; text-anchor: start; fill: #14246b" x="1594.8" y="419.987119" transform="rotate(-0 1594.8 419.987119)">School coordinates (supplied CSV)</text>
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Inter'; text-anchor: start; fill: #14246b" x="1594.8" y="419.987119" transform="rotate(-0 1594.8 419.987119)">School coordinates (approx., rounded)</text>
    </g>
    <g id="line2d_57">
     <path d="M 1592.64 429.84 
@@ -53194,43 +53194,43 @@ z
     <text style="font-weight: 700; font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #6b7280" x="1594.8" y="446.903215" transform="rotate(-0 1594.8 446.903215)">No.   District        Lat °N     Lon °E</text>
    </g>
    <g id="text_80">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="466.816184" transform="rotate(-0 1594.8 466.816184)">01    Rajbari        23.7574    89.6445</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="466.816184" transform="rotate(-0 1594.8 466.816184)">01    Rajbari        23.76    89.64</text>
    </g>
    <g id="text_81">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="485.896184" transform="rotate(-0 1594.8 485.896184)">02    Faridpur       23.6020    89.8330</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="485.896184" transform="rotate(-0 1594.8 485.896184)">02    Faridpur       23.60    89.83</text>
    </g>
    <g id="text_82">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="505.000887" transform="rotate(-0 1594.8 505.000887)">03    Khulna         22.9218    89.5019</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="505.000887" transform="rotate(-0 1594.8 505.000887)">03    Khulna         22.92    89.50</text>
    </g>
    <g id="text_83">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="524.080887" transform="rotate(-0 1594.8 524.080887)">04    Khulna         22.9555    89.4594</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="524.080887" transform="rotate(-0 1594.8 524.080887)">04    Khulna         22.96    89.46</text>
    </g>
    <g id="text_84">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="543.160887" transform="rotate(-0 1594.8 543.160887)">05    Nilphamari     25.9318    88.8560</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="543.160887" transform="rotate(-0 1594.8 543.160887)">05    Nilphamari     25.93    88.86</text>
    </g>
    <g id="text_85">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="562.216184" transform="rotate(-0 1594.8 562.216184)">06    Shariatpur     23.2060    90.3478</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="562.216184" transform="rotate(-0 1594.8 562.216184)">06    Shariatpur     23.21    90.35</text>
    </g>
    <g id="text_86">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="581.296184" transform="rotate(-0 1594.8 581.296184)">07    Jashore        23.1664    89.2081</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="581.296184" transform="rotate(-0 1594.8 581.296184)">07    Jashore        23.17    89.21</text>
    </g>
    <g id="text_87">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="600.400887" transform="rotate(-0 1594.8 600.400887)">08    Barishal       22.7004    90.3732</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="600.400887" transform="rotate(-0 1594.8 600.400887)">08    Barishal       22.70    90.37</text>
    </g>
    <g id="text_88">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="619.456184" transform="rotate(-0 1594.8 619.456184)">09    Dinajpur       25.6217    88.6355</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="619.456184" transform="rotate(-0 1594.8 619.456184)">09    Dinajpur       25.62    88.64</text>
    </g>
    <g id="text_89">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="638.560887" transform="rotate(-0 1594.8 638.560887)">10    Lalmonirhat    25.9165    89.4532</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="638.560887" transform="rotate(-0 1594.8 638.560887)">10    Lalmonirhat    25.92    89.45</text>
    </g>
    <g id="text_90">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="657.61582" transform="rotate(-0 1594.8 657.61582)">11    Cox's Bazar    21.4432    91.9738</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="657.61582" transform="rotate(-0 1594.8 657.61582)">11    Cox's Bazar    21.44    91.97</text>
    </g>
    <g id="text_91">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="676.696184" transform="rotate(-0 1594.8 676.696184)">12    Dhaka          23.9166    90.2590</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="676.696184" transform="rotate(-0 1594.8 676.696184)">12    Dhaka          23.92    90.26</text>
    </g>
    <g id="text_92">
-    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="695.776184" transform="rotate(-0 1594.8 695.776184)">13    Dhaka          23.9014    90.2756</text>
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #1d2433" x="1594.8" y="695.776184" transform="rotate(-0 1594.8 695.776184)">13    Dhaka          23.90    90.28</text>
    </g>
    <g id="text_93">
     <text style="font-size: 9.3px; font-family: 'Inter'; fill: #1d2433" transform="translate(1594.8 775.500678)">School names &amp; coordinates: supplied CSV.</text>
