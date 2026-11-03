@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">Methodological framework</title>
+<desc id="desc">Ten-step serpentine workflow for the feasibility assessment, from institution-wise data collection to feasibility recommendations and conclusions.</desc>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker>
+<style>
+.node{fill:#ffffff;stroke:#0f9488;stroke-width:3}
+.num{font:700 19px Arial,sans-serif;fill:#0f766e}
+.label{font:600 21px Arial,sans-serif;fill:#14213d}
+.flow{fill:none;stroke:#64748b;stroke-width:4;marker-end:url(#arrow)}
+.row{font:700 17px Arial,sans-serif;fill:#5b6475;letter-spacing:1.3px}
+</style>
+</defs>
+<rect width="1500" height="760" rx="24" fill="#f8fafc" stroke="#dde3ee"/>
+<!-- row 1 arrows -->
+<path class="flow" d="M325 115 H395"/><path class="flow" d="M700 115 H770"/><path class="flow" d="M1075 115 H1145"/>
+<!-- turn down at right -->
+<path class="flow" d="M1300 175 V300"/>
+<!-- row 2 arrows, direction right to left -->
+<path class="flow" d="M1150 375 H1080"/><path class="flow" d="M775 375 H705"/><path class="flow" d="M400 375 H330"/>
+<!-- turn down at left -->
+<path class="flow" d="M175 435 V560"/>
+<!-- row 3 arrow -->
+<path class="flow" d="M325 635 H395"/>
+<!-- row 1 nodes -->
+<rect class="node" x="25" y="55" width="300" height="120" rx="18"/>
+<text class="num" x="48" y="87">01</text><text class="label" x="48" y="119"><tspan x="48">Institution-wise</tspan><tspan x="48" dy="27">data collection</tspan></text>
+<rect class="node" x="400" y="55" width="300" height="120" rx="18"/>
+<text class="num" x="423" y="87">02</text><text class="label" x="423" y="119"><tspan x="423">Existing facilities</tspan><tspan x="423" dy="27">&amp; capacity assessment</tspan></text>
+<rect class="node" x="775" y="55" width="300" height="120" rx="18"/>
+<text class="num" x="798" y="87">03</text><text class="label" x="798" y="119"><tspan x="798">Enrollment trends</tspan><tspan x="798" dy="27">&amp; demand analysis</tspan></text>
+<rect class="node" x="1150" y="55" width="300" height="120" rx="18"/>
+<text class="num" x="1173" y="87">04</text><text class="label" x="1173" y="119"><tspan x="1173">Future demand</tspan><tspan x="1173" dy="27">&amp; infrastructure gaps</tspan></text>
+<!-- row 2 nodes, numbered right to left -->
+<rect class="node" x="1150" y="315" width="300" height="120" rx="18"/>
+<text class="num" x="1173" y="347">05</text><text class="label" x="1173" y="379"><tspan x="1173">Architectural &amp;</tspan><tspan x="1173" dy="27">engineering options</tspan></text>
+<rect class="node" x="775" y="315" width="300" height="120" rx="18"/>
+<text class="num" x="798" y="347">06</text><text class="label" x="798" y="379"><tspan x="798">Cost estimation &amp;</tspan><tspan x="798" dy="27">investment phasing</tspan></text>
+<rect class="node" x="400" y="315" width="300" height="120" rx="18"/>
+<text class="num" x="423" y="347">07</text><text class="label" x="423" y="379"><tspan x="423">Environmental, climate</tspan><tspan x="423" dy="27">&amp; disaster risk</tspan></text>
+<rect class="node" x="25" y="315" width="300" height="120" rx="18"/>
+<text class="num" x="48" y="347">08</text><text class="label" x="48" y="379"><tspan x="48">Financial &amp; economic</tspan><tspan x="48" dy="27">appraisal</tspan></text>
+<!-- row 3 nodes -->
+<rect class="node" x="25" y="575" width="300" height="120" rx="18"/>
+<text class="num" x="48" y="607">09</text><text class="label" x="48" y="639"><tspan x="48">Sensitivity &amp;</tspan><tspan x="48" dy="27">implementation analysis</tspan></text>
+<rect class="node" x="400" y="575" width="430" height="120" rx="18"/>
+<text class="num" x="423" y="607">10</text><text class="label" x="423" y="639"><tspan x="423">Feasibility recommendations</tspan><tspan x="423" dy="27">&amp; conclusions</tspan></text>
+</svg>

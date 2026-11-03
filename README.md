@@ -32,6 +32,8 @@
 | Estimated capital investment | Approximately Tk. 950 crore |
 | Implementation period (as stated in the report) | September 2026 – August 2029 |
 
+> **One-page summary:** [download the PDF](docs/AES-13-Schools-Project-Summary.pdf).
+>
 > **Access to the full report.** The complete report and supporting material are not published here. Requests for access (subject to client approval and, where required, a non-disclosure agreement) can be made through the [author's GitHub profile](https://github.com/takbir-h-rudro).
 
 ## Contents

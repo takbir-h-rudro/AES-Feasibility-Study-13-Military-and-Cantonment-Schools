@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Future projected students</title>
+<desc id="desc">Grouped vertical bar chart showing 26,229 students in the 2026 base condition, 28,223 without project and 38,018 with project in 2031, and 30,257 without project and 45,807 with project in 2036. Values correspond to future-projected-students.csv.</desc>
+<defs>
+<style>
+.title{font:700 30px Arial,sans-serif;fill:#14213d}.subtitle{font:16px Arial,sans-serif;fill:#5b6475}
+.grid{stroke:#dde3ee;stroke-width:1}.axis{stroke:#64748b;stroke-width:1.5}
+.tick{font:15px Arial,sans-serif;fill:#5b6475}.value{font:700 18px Arial,sans-serif;fill:#14213d}
+.year{font:700 20px Arial,sans-serif;fill:#1f2a44}.legend{font:15px Arial,sans-serif;fill:#334155}
+.axislabel{font:600 16px Arial,sans-serif;fill:#1f2a44}
+</style>
+</defs>
+<rect width="1000" height="620" rx="20" fill="#f8fafc" stroke="#dde3ee"/>
+<text class="title" x="500" y="45" text-anchor="middle">Future projected students</text>
+<text class="subtitle" x="500" y="73" text-anchor="middle">Existing enrollment and projected demand under two scenarios</text>
+<g>
+<line class="grid" x1="120" y1="125" x2="930" y2="125"/><line class="grid" x1="120" y1="205" x2="930" y2="205"/>
+<line class="grid" x1="120" y1="285" x2="930" y2="285"/><line class="grid" x1="120" y1="365" x2="930" y2="365"/>
+<line class="grid" x1="120" y1="445" x2="930" y2="445"/><line class="axis" x1="120" y1="525" x2="930" y2="525"/>
+<line class="axis" x1="120" y1="125" x2="120" y2="525"/>
+<text class="tick" x="105" y="530" text-anchor="end">0</text>
+<text class="tick" x="105" y="450" text-anchor="end">10,000</text>
+<text class="tick" x="105" y="370" text-anchor="end">20,000</text>
+<text class="tick" x="105" y="290" text-anchor="end">30,000</text>
+<text class="tick" x="105" y="210" text-anchor="end">40,000</text>
+<text class="tick" x="105" y="130" text-anchor="end">50,000</text>
+</g>
+<text class="axislabel" x="525" y="585" text-anchor="middle">Year</text>
+<text class="axislabel" transform="translate(35 325) rotate(-90)" text-anchor="middle">Number of Students</text>
+<!-- 2026 -->
+<rect x="230" y="315.168" width="92" height="209.832" rx="8" fill="#2E8B57"/>
+<text class="value" x="276" y="300" text-anchor="middle">26,229</text>
+<text class="year" x="276" y="555" text-anchor="middle">2026</text>
+<!-- 2031 -->
+<rect x="465" y="299.216" width="92" height="225.784" rx="8" fill="#D64545"/>
+<text class="value" x="511" y="284" text-anchor="middle">28,223</text>
+<rect x="567" y="220.856" width="92" height="304.144" rx="8" fill="#2878C7"/>
+<text class="value" x="613" y="206" text-anchor="middle">38,018</text>
+<text class="year" x="562" y="555" text-anchor="middle">2031</text>
+<!-- 2036 -->
+<rect x="760" y="282.944" width="72" height="242.056" rx="8" fill="#D64545"/>
+<text class="value" x="796" y="267" text-anchor="middle">30,257</text>
+<rect x="840" y="158.544" width="72" height="366.456" rx="8" fill="#2878C7"/>
+<text class="value" x="876" y="143" text-anchor="middle">45,807</text>
+<text class="year" x="836" y="555" text-anchor="middle">2036</text>
+<!-- Legend -->
+<g transform="translate(210 605)">
+<rect x="0" y="-13" width="15" height="15" rx="3" fill="#2E8B57"/><text class="legend" x="23" y="0">Existing/Base Condition</text>
+<rect x="270" y="-13" width="15" height="15" rx="3" fill="#D64545"/><text class="legend" x="293" y="0">Without Project</text>
+<rect x="485" y="-13" width="15" height="15" rx="3" fill="#2878C7"/><text class="legend" x="508" y="0">With Project</text>
+</g>
+</svg>
