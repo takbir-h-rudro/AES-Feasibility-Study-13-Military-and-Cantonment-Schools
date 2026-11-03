@@ -254,6 +254,7 @@ The completed study comprises the items below. **None of them is included in thi
 - Project details are summarised from the September 2026 feasibility study report. Figures are rounded for public presentation.
 - Map data: [Natural Earth](https://www.naturalearthdata.com/) (public domain) and [geoBoundaries Bangladesh ADM1–ADM2](https://www.geoboundaries.org/countryDownloads.html) (CC BY 4.0).
 - To cite this summary, use the "Cite this repository" button on GitHub (see [`CITATION.cff`](CITATION.cff)).
+- **License:** content is licensed under [CC BY-NC-ND 4.0](LICENSE); share with credit, no commercial use, no modified versions.
 - **Version:** public summary v1.0, last updated 3 November 2026.
 
 *This repository is a documentation summary of the completed feasibility study. All technical findings, estimates and recommendations should be read with reference to the consolidated report and its annexes.*
